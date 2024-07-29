@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "QtS+uebv2RKPbsw++FrJbSMOXVeE2fKyOAmlv6g72G4=",
+  "Hash": "NcTfTyDUy2Ng+e4wdXtROyBnU0PqkhsqgOIcekkDJ3A=",
   "Source": "misas-website",
   "BasePath": "_content/misas-website",
   "Mode": "Default",
@@ -1154,6 +1154,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Resources\\Images\\Food\\lemongrass-wings.JPG"
+    },
+    {
+      "Identity": "C:\\Users\\Adamk\\Desktop\\C# Workspace\\misas-website\\misas-website\\wwwroot\\Resources\\Images\\Other\\thai-street-food-market.jpg",
+      "SourceId": "misas-website",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Adamk\\Desktop\\C# Workspace\\misas-website\\misas-website\\wwwroot\\",
+      "BasePath": "_content/misas-website",
+      "RelativePath": "Resources/Images/Other/thai-street-food-market.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Resources\\Images\\Other\\thai-street-food-market.jpg"
     }
   ]
 }

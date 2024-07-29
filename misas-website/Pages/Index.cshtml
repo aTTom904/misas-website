@@ -8,7 +8,8 @@
     <div class="row no-gutters" display="flex" style="justify-content: center; align-items: center;">
         <div class="col-md-5 p-5">
             <h2>Flavor you have to try to believe</h2>
-            <p>Welcome to Misa's Thai Street Cuisine, where we bring you creative Thai dishes crafted with the freshest ingredients. Our menu features a diverse range of flavorful options that are sure to tantalize your taste buds. Whether you're in the mood for spicy noodles, savory curries, or a refreshing Thai papaya salad, we have something for everyone. Contact us for your event and experience the vibrant flavors of Thailand for yourself.</p>
+            <p>Misa's Thai Street Cuising brings you truly creative Thai dishes crafted with the freshest ingredients. Our menu features a diverse range of flavorful options that are sure to tantalize your taste buds. From spicy noodles and savory curries, to a refreshing papaya salad or sweet and delicious mango with sticky rice, we have something for everyone. Contact us for your next event and experience the vibrant flavors of Thailand for yourself.</p>
+            <a href="/Catering" class="catering-button">Learn More</a>
         </div>
 
         <div class="col-md-7 p-0">
@@ -51,6 +52,20 @@
         </div>
     </div>
 </div>
+
+<br />
+<br />
+
+<div class="image-text-container d-flex flex-md-row flex-column mt-5 p-5">
+    <div class="left-image col-md-6 d-flex justify-content-center align-items-center mb-4 mb-md-0">
+        <img src="/Resources/Images/Other/thai-street-food-market.jpg" alt="Thai Street Food Market" class="rounded-image">
+    </div>
+    <div class="right-text col-md-6">
+        <h2>Our philosophy: Live to eat!</h2>
+        <p>Live to Eat is a philosophy that celebrates the joy of life through food. It's about savoring every bite, exploring diverse cuisines, and embracing the cultural stories behind each dish. For those who live to eat, food is not just sustenance but an experience, a passion, and a way to connect with others.</p>
+    </div>
+</div>
+
 
 @section Scripts {
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
@@ -132,4 +147,52 @@
     .carousel-fade .carousel-item {
         transition: opacity 2s ease-in-out;
     }
+
+    .catering-button {
+        display: inline-block;
+        padding: 10px 20px;
+        background-color: gold;
+        color: black;
+        text-decoration: none;
+        font-size: 16px;
+        transition: background-color 0.3s ease, color 0.3s ease;
+    }
+
+        .catering-button:hover {
+            background-color: darkgoldenrod;
+            color: white;
+        }
+
+    .image-text-container {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 20px;
+        border-radius: 10px;
+    }
+
+    .left-image {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .rounded-image {
+        width: 500px;
+        height: 500px;
+        border-radius: 50%;
+        object-fit: cover;
+    }
+
+    .right-text {
+        padding-left: 20px;
+    }
+
+        .right-text h2 {
+            margin-bottom: 15px;
+        }
+
+        .right-text p {
+            margin-bottom: 0;
+        }
 </style>

@@ -25,6 +25,10 @@
       "PackagePath": "staticwebassets\\Resources\\Images\\Food\\lemongrass-wings.JPG"
     },
     {
+      "Id": "C:\\Users\\Adamk\\Desktop\\C# Workspace\\misas-website\\misas-website\\wwwroot\\Resources\\Images\\Other\\thai-street-food-market.jpg",
+      "PackagePath": "staticwebassets\\Resources\\Images\\Other\\thai-street-food-market.jpg"
+    },
+    {
       "Id": "C:\\Users\\Adamk\\Desktop\\C# Workspace\\misas-website\\misas-website\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
